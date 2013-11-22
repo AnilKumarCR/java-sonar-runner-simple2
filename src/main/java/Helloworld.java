@@ -1,6 +1,7 @@
 public class Helloworld {
 
   private String field;
+    private String fields;
 
   public void use() {
     new DeprecatedExample().deprecatedMethod();
